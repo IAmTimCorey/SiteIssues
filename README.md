@@ -25,4 +25,4 @@ https://www.csharpmastercourse.com
 If you want to learn C#, this is the course to take.
 
 ## Sites Not Covered
- * Courses site - the hosting for our paid courses is on Teachable. We do not have control over site outages, network slowdowns, or other issues related to that site. If you do encounter a problem with the site and cannot get help from Teachable, you can email help@iamtimcorey.com and we will do what we can.
+ * Courses site - the hosting for our paid courses is on Teachable. We do not have control over site outages, network slowdowns, or other issues related to that site. Here is the Teachable status link: https://www.teachablestatus.com/ If you do encounter a problem with the site and cannot get help from Teachable, you can email help@iamtimcorey.com and we will do what we can.
