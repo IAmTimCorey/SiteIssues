@@ -3,6 +3,11 @@ This repo houses the issue tracker for the various IAmTimCorey sites. If you com
 place for those is on the [Suggestion Site](https://suggestions.iamtimcorey.com).
 
 This covers the following sites:
+
+## IAmTimCorey Main Site
+https://www.iamtimcorey.com
+
+The main website with everything that we provide.
  
 ## Suggestion Site
 https://suggestions.iamtimcorey.com
@@ -20,5 +25,4 @@ https://www.csharpmastercourse.com
 If you want to learn C#, this is the course to take.
 
 ## Sites Not Covered
- * IAmTimCorey main site (https://www.iamtimcorey.com) - this is being completely redone. Right now, it is hosted by Teachable and is rather restricted. We are replacing it with a new and improved site.
  * Courses site - the hosting for our paid courses is on Teachable. We do not have control over site outages, network slowdowns, or other issues related to that site. If you do encounter a problem with the site and cannot get help from Teachable, you can email help@iamtimcorey.com and we will do what we can.
